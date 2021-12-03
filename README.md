@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Tanay-Soham/cyber-security/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Tanay-Soham/cyber-security/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<h1>Cyber Security</h1>
+<h2>Introduction ...</h2>
+<p>Advantages of Internet and computers is extremely important now a days.
+It allows us to:
+  <ul>
+    <li>Access any data or information anytime , anywhere.
+    <li>Communicate with our friends, relatives and colleagues instantly.
+    <li>Order goods while being at our homes 
+  </ul>    
+  However as with any service, benifits come with their harms.
+  <br>
+  With our extreme dependence on computers , cyber crimes have increased exponentialy.
+  <br>
+  <h2>So ...</h2>
+  My project or rather webpage is merely here to create awareness among people regarding this topic. This, I believe will help people become aware and understand the risks associated with the cyber world and have a better and safer surfing experiance.
+  <br>
+<hr>
+It would really mean a lot to me if you share this webpage to your friends ,family and your loved ones.<br>
+Here is the 
+<a href="https://tanay-soham.github.io/cyber-security/" target="_blank">link</a> again ...<br>
+  
+Regards,
+  Tanay Kar
+  tanaykar.bdmi@gmail.com
+  
