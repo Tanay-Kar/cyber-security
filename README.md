@@ -19,7 +19,7 @@ It would really mean a lot to me if you share this webpage to your friends ,fami
 Here is the 
 <a href="https://tanay-soham.github.io/cyber-security/" target="_blank">link</a> again ...<br>
   
-Regards,
-  Tanay Kar
+Regards,<br>
+  Tanay Kar<br>
   tanaykar.bdmi@gmail.com
   
