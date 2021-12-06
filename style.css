@@ -90,6 +90,7 @@ iframe{
 .table{
 	border-radius:25px;
 	border:none;
+	border-collapse:collapse;
 	
 	}	
 	
