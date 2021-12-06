@@ -92,7 +92,26 @@ iframe{
 	border:none;
 	border-collapse:collapse;
 	
-	}	
+	}
+table {
+    border-collapse:separate;
+    border:solid black 1px;
+    border-radius:6px;
+}
+
+td, th {
+    border-left:solid black 1px;
+    border-top:solid black 1px;
+}
+
+th {
+    background-color: blue;
+    border-top: none;
+}
+
+td:first-child, th:first-child {
+     border-left: none;
+}
 	
 	input[type=text]{
 		
