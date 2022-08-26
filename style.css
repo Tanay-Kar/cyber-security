@@ -34,6 +34,8 @@ img{
 }
 
 .intropara{
+	margin-left:10px;
+	margin-right:10px;
 	background-color:#FFFF60;
 	border-radius:10px;
 	padding:10px;
@@ -42,8 +44,8 @@ img{
 }
 
 .comic{
-	margin-left:400px;
-	margin-right:400px;
+	margin-left:10px;
+	margin-right:10px;
 	background-color:#A7B9FF;
 	border-radius:10px;
 	padding:10px;
@@ -51,10 +53,11 @@ img{
 	
 }
 
-.form{
+.form{	
+	margin-left:10px;
+	margin-right:10px;
 	padding:25px;
 	background-color:#FFDB00;
-	border: 2px solid red;
 	border-radius: 12px;
 	font-size:20px;
 	box-shadow: 5px 10px 8px #888888;
