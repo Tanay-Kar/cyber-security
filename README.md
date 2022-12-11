@@ -17,7 +17,7 @@ It allows us to:
 <hr>
 It would really mean a lot to me if you share this webpage to your friends ,family and your loved ones.<br>
 Here is the 
-<a href="https://tanay-soham.github.io/cyber-security/" target="_blank">link</a> again ...<br>
+<a href="https://tanay-kar.github.io/cyber-security/" target="_blank">link</a> again ...<br>
   
 Regards,<br>
   Tanay Kar<br>
